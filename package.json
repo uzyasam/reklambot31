@@ -1,0 +1,23 @@
+{
+  "name": "mzr-development",
+  "version": "0.0.1",
+  "description": "YouTube: MZR Development / @MZRDev",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "mzrdev",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "croxydb": "^0.0.7",
+    "discord-html-transcripts": "^3.1.4",
+    "discord.js": "14.11.0",
+    "glob": "^9.2.1",
+    "moment": "^2.29.4",
+    "path": "^0.12.7"
+  },
+    "engines": {
+    "node": "16.x"
+  }
+}
